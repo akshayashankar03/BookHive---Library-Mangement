@@ -8,6 +8,11 @@ The Library Management System using Django with authentication is a powerful and
 ![image (2)](https://user-images.githubusercontent.com/123350438/232518446-3549ca1a-47bb-4299-8e01-d64bbf32cba2.png)
 
 
+![image](https://user-images.githubusercontent.com/123350438/232519328-90d5722d-5abe-4a92-9203-933a1ee8273c.png)
+
+![image (1)](https://user-images.githubusercontent.com/123350438/232519962-b8c36372-146c-49b7-b2ba-844ddd25aed4.png)
+
+
 # Features:
 # The Library Management System using Django with authentication will have the following features:
 
