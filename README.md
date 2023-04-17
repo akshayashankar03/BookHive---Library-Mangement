@@ -1,4 +1,4 @@
-# BookHive---Library-Mangement
+# BookHive-Library_Mangement_System
 
 Library Management System is a web-based application developed to automate and manage the functions of a library. This application will help the librarian to manage the library more efficiently and effectively. This project will use Django, a Python-based web framework, to create a web application with a user authentication system. The authentication system will allow users to log in and access the library's resources and services based on their roles and permissions.
 
